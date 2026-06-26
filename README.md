@@ -1,6 +1,6 @@
 # E-Commerce React App
 
-A responsive React e-commerce storefront built with Vite, Bootstrap, and React Router. The application includes product browsing, wishlist management, shopping cart functionality, and product detail pages.
+A modern and responsive e-commerce web application built with React, Vite, Bootstrap, and React Router, featuring dynamic product browsing, cart management, and wishlist functionality.
 
 ## Key Features
 
@@ -58,7 +58,13 @@ Then open the local URL shown in the terminal, usually `http://localhost:5173`.
   - `/products3`
 
 If you are using a JSON server, make sure it is running on port `3001` and that the expected routes are available.
+## Screenshots
 
+### Home Page
+![Home](./screenshots/home.png)
+
+### Product Details
+![Details](./screenshots/details.png)
 ## Available Scripts
 
 - `npm run dev` – start development server
